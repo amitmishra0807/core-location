@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  MapLocator
-//
-//  Created by Malek T. on 9/28/16.
-//  Copyright © 2016 Medigarage Studios LTD. All rights reserved.
-//
+
 
 import UIKit
 
